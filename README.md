@@ -43,7 +43,11 @@ Digital Scholarship Centre, 6th floor, Main Library, University of Edinburgh
 **Session 2: 17 March 2024**
 
 10:00-10:30 Introduction to using Gephi to analysis (historical) financial data
+
 10:30-10:40 Break
+
 10:40-11:10 Hands-on experience in analysing (historical) financial data in Gephi
+
 11:10-11:20 Break
+
 11:20-12:00 Introduction to building excel datasets for analysing (historical) financial data in Gephi
