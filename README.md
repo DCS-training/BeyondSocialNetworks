@@ -9,6 +9,7 @@ Before your first session, please download [**Gephi 0.10.1**](https://gephi.org/
 After installing Gephi, please also install the Gephi plugins. Go to the Tools menu and install **GeoLayout** and **ExportToEarth**:
 
 Tools > Plugins > Available Plugins > GeoLayout
+
 Tools > Plugins > Available Plugins > ExportToEarth
 
 If you have any problems downloading Gephi, please contact Brian at twong4@ed.ac.uk.
@@ -24,12 +25,19 @@ Digital Scholarship Centre, 6th floor, Main Library, University of Edinburgh
 **Session 1: 10 May 2024**
 
 10:00-10:10 Introduction
+
 10:10-10:20 Quick refresher on the basic concepts of Gephi
+
 10:30-10:50 Introduction to using Gephi to build information transmission networks 
+
 10:50-11:00 Break
+
 11:00-11:30 Hands-on experience in building information transmission networks in Gephi
+
 11:30-11:40 Break
+
 11:40-11:50 Export the information transmission networks to Google Earth
+
 11:50-12:00 Q&A and wrapping up
 
 **Session 2: 17 March 2024**
