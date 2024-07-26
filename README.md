@@ -51,3 +51,8 @@ Digital Scholarship Centre, 6th floor, Main Library, University of Edinburgh
 11:10-11:20 Break
 
 11:20-12:00 Introduction to building excel datasets for analysing (historical) financial data in Gephi
+
+
+## License
+
+This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
