@@ -12,45 +12,41 @@ Tools > Plugins > Available Plugins > GeoLayout
 
 Tools > Plugins > Available Plugins > ExportToEarth
 
-If you have any problems downloading Gephi, please contact Brian at twong4@ed.ac.uk.
+If you have any problems downloading Gephi, please contact Brian at t.h.wong-2@sms.ed.ac.uk.
 
 **Please also bring a computer mouse, as you will not be able to navigate Gephi without it.**
 
 # Venue
 
-Digital Scholarship Centre, 6th floor, Main Library, University of Edinburgh
+Room 4.35, Edinburgh Futures Institute, University of Edinburgh
 
 # Schedule
 
-**Session 1: 10 May 2024**
+**Session 1: 16 April 2025**
 
-10:00-10:10 Introduction
+14:00-14:10 Introduction
 
-10:10-10:20 Quick refresher on the basic concepts of Gephi
+14:10-14:20 Quick refresher on the basic concepts of Gephi
 
-10:30-10:50 Introduction to using Gephi to build information transmission networks 
+14:30-15:00 Introduction to using Gephi to build information transmission networks 
 
-10:50-11:00 Break
+15:00-15:10 Break
 
-11:00-11:30 Hands-on experience in building information transmission networks in Gephi
+15:10-15:40 Hands-on experience in building information transmission networks in Gephi
 
-11:30-11:40 Break
+15:40-15:50 Export the information transmission networks to Google Earth
 
-11:40-11:50 Export the information transmission networks to Google Earth
+15:50-16:00 Q&A and wrapping up
 
-11:50-12:00 Q&A and wrapping up
+**Session 2: 23 April 2025**
 
-**Session 2: 17 March 2024**
+14:00-14:30 Introduction to using Gephi to analysis (historical) financial data
 
-10:00-10:30 Introduction to using Gephi to analysis (historical) financial data
+14:40-15:10 Hands-on experience in analysing (historical) financial data in Gephi
 
-10:30-10:40 Break
+15:10-15:20 Break
 
-10:40-11:10 Hands-on experience in analysing (historical) financial data in Gephi
-
-11:10-11:20 Break
-
-11:20-12:00 Introduction to building excel datasets for analysing (historical) financial data in Gephi
+15:20-16:00 Introduction to building excel datasets for analysing (historical) financial data in Gephi (manually and via LLMs)
 
 
 ## License
